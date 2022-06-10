@@ -1,0 +1,37 @@
+    body {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(imagens/banner_1.jpg);
+    }
+    
+    div {
+        margin-top: 15px;
+        margin-left: 140px;
+        background-color: rgb(255, 101, 3);
+        position: absolute;
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+        background-size: cover;
+        display: flex;
+        align-items: center;
+        color: rgb(255, 255, 255);
+        padding: 8px 12px;
+        border-radius: 3px;
+        transition: 200ms;
+    }
+    
+    .p1 {
+        margin-left: 100px;
+    }
+    
+    .p2 {
+        margin-left: 100px;
+    }
+    
+    .a1 {
+        text-decoration: none;
+        color: #FFF;
+    }
+    
+    .a2 {
+        text-decoration: none;
+        color: #FFF;
+    }
